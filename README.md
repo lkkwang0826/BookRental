@@ -57,7 +57,7 @@
 
 책배달시스템은 아래의 5가지 마이크로 서비스로 구성되어 있다.
 
-1. 게이트 웨이: [https://github.com/lkkwang0826/BookRental-gateway.git](https://github.com/lkkwang0826/BookRental-gateway.git)
+1. 게이트 웨이: [https://github.com/lkkwang0826/BookRental/gateway.git](https://github.com/lkkwang0826/BookRental/gateway.git)
 1. 도서관리   : [https://github.com/shkim99/book-bookinfo.git](https://github.com/shkim99/book-bookinfo.git)
 1. 대여관리   : [https://github.com/shkim99/book-rental.git](https://github.com/shkim99/book-rental.git)
 1. 배송관리   : [https://github.com/shkim99/book-delivery.git](https://github.com/shkim99/book-delivery.git)
