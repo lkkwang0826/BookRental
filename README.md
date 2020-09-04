@@ -57,11 +57,12 @@
 
 책배달시스템은 아래의 5가지 마이크로 서비스로 구성되어 있다.
 
-1. 게이트 웨이: [https://github.com/lkkwang0826/BookRental/gateway.git](https://github.com/lkkwang0826/BookRental/gateway.git)
-1. 도서관리   : [https://github.com/shkim99/book-bookinfo.git](https://github.com/shkim99/book-bookinfo.git)
-1. 대여관리   : [https://github.com/shkim99/book-rental.git](https://github.com/shkim99/book-rental.git)
-1. 배송관리   : [https://github.com/shkim99/book-delivery.git](https://github.com/shkim99/book-delivery.git)
-1. 현황조회   : [https://github.com/lkkwang0826/BookRental/tree/master/](https://github.com/lkkwang0826/BookRental/tree/master/)
+1. 게이트 웨이: [https://github.com/shkim99/book-gateway.git](https://github.com/shkim99/book-gateway.git)
+2. 도서관리   : [https://github.com/shkim99/book-bookinfo.git](https://github.com/shkim99/book-bookinfo.git)
+3. 대여관리   : [https://github.com/shkim99/book-rental.git](https://github.com/shkim99/book-rental.git)
+4. 배송관리   : [https://github.com/shkim99/book-delivery.git](https://github.com/shkim99/book-delivery.git)
+5. 현황조회   : [https://github.com/shkim99/book-lookup.git](https://github.com/shkim99/book-lookup.git)
+
 
 모든 시스템은 Spring Boot로 구현하였고 `mvn spring-boot:run` 명령어로 실행할 수 있다.
 
